@@ -1,0 +1,21 @@
+
+  .body{
+    box-sizing: border-box;
+    font-family: "Kaisei Opti", serif;
+ 
+    font-family: "Roboto Condensed", sans-serif;
+
+}
+.row{
+    border:   2px solid black;
+  }
+  .container-fluid{
+      background-color: brown;
+      height: 96px;
+  
+  }
+  .col-6, .col-6{
+      border: 2px solid white;
+      height: 96px;
+    }
+    
